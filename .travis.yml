@@ -1,0 +1,8 @@
+language: android
+sudo: false
+android:
+  components:
+    - tools
+    - platform-tools
+    - build-tools-24.0.3
+    - android-24
